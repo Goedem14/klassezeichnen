@@ -38,4 +38,4 @@ def main():
     turtle.exitonclick()
 
 
-main ()
+main () #so müssen die weiteren Programme immer aussehen 
